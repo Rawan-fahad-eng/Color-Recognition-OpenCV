@@ -1,7 +1,9 @@
 # Color Recognition using OpenCV
 
+
 ## About This Project
-This is a simple project I made for my Cryptography/Information Security course task using OpenCV. The idea is to build a program that can look at a picture and figure out which colors are in it — like red, yellow, green, blue, and orange — then draw a box around each colored object and label it with its name.
+This project was created as a task for my Cryptography/Information Security course. The task required us to build a program using OpenCV. I chose to build a color recognition program, where it takes an image, detects the colors in it (red, yellow, green, blue, orange), draws a box around each colored object, and labels it with the color name.
+
 
 ## How It Works
 1. The program reads an image file.
