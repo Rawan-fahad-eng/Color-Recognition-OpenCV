@@ -2,7 +2,8 @@
 
 
 ## About This Project
-This project was created as a task for my Cryptography/Information Security course. The task required us to build a program using OpenCV. I chose to build a color recognition program, where it takes an image, detects the colors in it (red, yellow, green, blue, orange), draws a box around each colored object, and labels it with the color name.
+This task required building a program using OpenCV. I chose to build a color recognition program, where it takes an image, detects the colors in it (red, yellow, green, blue, orange), draws a box around each colored object, and labels it with the color name.
+
 
 
 ## How It Works
